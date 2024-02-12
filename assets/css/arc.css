@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body{
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color: yellow;
+}
+.ok{
+    padding: 0 0 600px 0;
+}
